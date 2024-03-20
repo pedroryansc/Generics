@@ -13,4 +13,11 @@ public class Comp2 {
 		return count;
 	}
 	
+	/* Ou
+		for(int i = 0; i < anArray.length; i++) {
+			if(anArray[i].compareTo(elem) > 0)
+				count++;
+		}
+	*/
+	
 }
